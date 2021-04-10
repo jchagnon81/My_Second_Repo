@@ -8,9 +8,15 @@ h1 {
   float: left;
   padding-right: 15px;
   background-color: lightskyblue;
+  border-style: dashed;
+  border-color: maroon;
+  border-width: 15px;
 }
 .right {
   float: right;
   padding-left: 15px;
   background-color: lightskyblue;
+  border-style: dashed;
+  border-color: maroon;
+  border-width: 15px;
 }
