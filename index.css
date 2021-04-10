@@ -6,7 +6,7 @@ h1 {
 }
 .left {
   float: left;
-  padding-right: 15px;
+  padding-right: 35px;
   background-color: lightskyblue;
   border-style: dashed;
   border-color: maroon;
@@ -14,7 +14,7 @@ h1 {
 }
 .right {
   float: right;
-  padding-left: 15px;
+  padding-left: 35px;
   background-color: lightskyblue;
   border-style: dashed;
   border-color: maroon;
